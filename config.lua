@@ -1,5 +1,5 @@
 Config = {}
 
-Config.Standalone = true
+Config.Standalone = false
 Config.ESX = false --ENABLE IF USING ESX MULTICHARACTER or ANY MULTICHARACTER ESX SCRIPT
-Config.QBCORE = false
+Config.QBCORE = true
